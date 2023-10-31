@@ -94,6 +94,12 @@ article{
   padding: 3rem 0;
   text-align: center;
 }
+.linkinfo {
+  width: 60%;
+  margin: 0 auto;
+  padding: 3rem 0;
+  text-align: center;
+}
 
 .textbox p {
   font-family: 'Black Han Sans', sans-serif;

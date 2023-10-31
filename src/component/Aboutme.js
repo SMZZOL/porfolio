@@ -4,8 +4,18 @@ const Aboutme = () => {
   return (
     <article>
     <img className="infoimg" src="Semin.jpg" alt="SeminPic" />
+    <div className='textbox'>
+        <p>
+          <a style={{margin:"none !important"}} target="_blank"href="https://www.notion.so/c36e820b437348618f728d07e86a7873?pvs=9">
+          <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+          </a>
+          <a style={{margin:"none !important"}} target="_blank"href="https://github.com/SMZZOL">
+          <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+    </div>
     <div class="textbox">
-      <p>안녕하세요</p>
+      <p>안녕하세요,</p>
       <p>성장을 최우선으로 생각하는</p>
       <p>신입 웹개발자 김세민 입니다. </p>
       <p>저는...</p>
