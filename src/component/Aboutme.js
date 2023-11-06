@@ -3,6 +3,7 @@ import React from "react";
 const Aboutme = () => {
   return (
     <article>
+      <img className="infoimg" src="Semin.jpg" alt="SeminPic" />
       <div className="textbox">
         <p>
           <a

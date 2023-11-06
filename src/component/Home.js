@@ -17,7 +17,6 @@ const Home = () => {
     
     return (
         <div className="App">      
-        <img className="seminimg" src="Semin.jpg" alt="SeminPic" />
         <p className="title_text">
         Semin-Portfolio
         </p>
