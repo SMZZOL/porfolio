@@ -9,7 +9,7 @@ const Aboutme = () => {
           <a
             style={{ margin: "none !important" }}
             target="_blank"
-            href="https://www.notion.so/c36e820b437348618f728d07e86a7873?pvs=9"
+            href="https://oasis-shirt-1d1.notion.site/c36e820b437348618f728d07e86a7873?pvs=4"
           >
             <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
           </a>
